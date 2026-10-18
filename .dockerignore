@@ -1,0 +1,16 @@
+.venv
+venv
+ENV
+env
+node_modules
+frontend/node_modules
+.git
+.env
+backend/.env
+__pycache__
+backend/__pycache__
+*.pyc
+.system_generated
+dist
+frontend/dist
+*.log

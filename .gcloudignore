@@ -1,0 +1,14 @@
+.gcloudignore
+.git
+.gitignore
+.env
+backend/.env
+**/node_modules/
+node_modules/
+frontend/node_modules/
+.venv/
+**/venv/
+**/__pycache__/
+*.pyc
+.system_generated/
+*.log
